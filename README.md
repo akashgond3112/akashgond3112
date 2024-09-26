@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>🔭 I’m currently working as a Software Engineer L3 at OpenBet in London.<br>🌱 I’m sharpening my skills in Java, Spring Boot, System Design, Docker, and Kubernetes.<br>🤝 Open to collaborating on problem-solving tasks or building apps related to my tech stack.<br>🤔 I’m seeking guidance on learning AI and ML concepts.<br>💬 Feel free to ask me about my experience with the technologies I work with!<br>📫 You can reach me on LinkedIn.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: Always curious and eager to dive into new challenges! ✨
+Hi there! 👋<br>🌱 I’m sharpening my skills in Java, Spring Boot, System Design, Docker, and Kubernetes.<br>🤝 Open to collaborating on problem-solving tasks or building apps related to my tech stack.<br>🤔 I’m seeking guidance on learning AI and ML concepts.<br>💬 Feel free to ask me about my experience with the technologies I work with!<br>📫 You can reach me on LinkedIn.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: Always curious and eager to dive into new challenges! ✨
 
 
 ## 🌐 Socials:
